@@ -90,7 +90,7 @@ public class SmartTv {
                 }
             }
         } finally {
-            scanner.nextLine();
+            scanner.close();
         }
         System.out.println("Programa encerrado.");
     }
