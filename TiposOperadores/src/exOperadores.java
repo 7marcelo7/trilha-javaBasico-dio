@@ -36,6 +36,9 @@ public class exOperadores{
         z /= 4; // z = z / 4
         System.out.println("z /= 4: " + z);
         
+        z %= 5;
+        System.out.print("z %= 5: " + z);
+        
         // Operadores Unários
         int n = 5;
         
