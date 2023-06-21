@@ -51,7 +51,7 @@ public class Cliente {
 
     public void criarConta() {
 
-        //Foi criada uma função para que o numero da conta seja gerado de forma automatica e aleaoria.
+        //Foi criada uma função para que o numero da conta seja gerado de forma automatica e aleatoria.
         try (Scanner scanner = new Scanner(System.in)) {
             Random random = new Random();
             numero = random.nextInt(90000) + 10000;
