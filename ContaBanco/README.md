@@ -1,11 +1,9 @@
 ## Simulador de Criação de Conta Bancária em Java
 
-Este é um projeto básico em Java que simula a criação de uma conta bancária. Ele foi desenvolvido como um sesafio avaliativo da DIO com intuito
+Este é um projeto básico em Java que simula a criação de uma conta bancária. Ele foi desenvolvido como um desafio avaliativo da DIO com intuito
 de ajudar a entender os conceitos basicos da linguagem java.
 
 ## Estrutura do Projeto
-
-The workspace contains two folders by default, where:
 
 O projeto possui a seguinte estrutura de pastas:
 
