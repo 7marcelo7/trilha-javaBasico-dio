@@ -1,18 +1,9 @@
-## Getting Started
+## Criando um Banco Digital com Java e Orientação a Objetos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desafio criado pela DIO para colocar em praticas alguns conceitos de POO(Orientação a objetos), onde foi simulado um banco digital que oferece aos clientes as contas salrio, correte e poupança, onde possuem funcionalidade de deposito, transferencia e saque;
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# Conceitos aplicados
+* Abstrção
+* Herança
+* Encapsulamento
+* Polimorfismo
